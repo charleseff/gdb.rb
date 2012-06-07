@@ -17,7 +17,7 @@ gdb7 hooks for MRI
   0x00007fa8b9cb3c93 in select () from /lib/libc.so.6
 
   (gdb) ruby eval 1+2
-  2
+  3
 
   (gdb) ruby eval Thread.list.count
   17
